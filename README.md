@@ -5,7 +5,7 @@
   - run `npm install` to instal node modules
   - run `npm start` to start the service on `localhost:3000`
     
-##### deployed app : https://SatishShirahatti.github.io/my-portfolio
+##### deployed app : https://SatishShirahatti.github.io/myprofile
 
 clone and change url to your repo
 git remote set-url origin https://github.com/SatishShirahatti/my-portfolio.git
