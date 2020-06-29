@@ -9,3 +9,4 @@
 
 clone and change url to your repo
 git remote set-url origin https://github.com/SatishShirahatti/my-portfolio.git
+updated
