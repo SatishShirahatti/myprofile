@@ -13,9 +13,9 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-					<p>Skillful and dynamic Senior web Developer having 8 years of experience in web development and
+					<p>Skillful and dynamic Senior web Developer having 9 years of experience in web development and
 						hybrid mobile application development.</p>
-					<p>Overall 8+ years experience, worked as a front-end developer in technologies such as ReactJS ,Angular
+					<p>Overall 9+ years experience, worked as a front-end developer in technologies such as ReactJS ,Angular
 						JS, Mobile platforms with Xamarin etc. Addintionally Certified Scrum Master and have worked in
 						numerious Digital projects using aglie methodology. Extensive experience in project / team management
 						in ensuring high quality and timely delivery of projects in very dynamic environments:P </p>
@@ -42,32 +42,61 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                    <p>I have experience building websites 
+ 					using technologies ReactJS , redux, JavaScript,HTML5,CSS3,jquery 
+					Bootstrap Twitter 3.0
+					Microsoft Azure, CRM365</p>
                 </div>
                 </div>
             </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-3">
-                <span className="icon">
-                    <i className="icon-phone3" />
-                </span>
-                <div className="desc">
-                    <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-5">
-                <span className="icon">
-                    <i className="icon-data" />
-                </span>
-                <div className="desc">
-                    <h3>Azure Fundamentals</h3>
-                    <p>I am pursuing my Azure Fundamentals training along with that i have some DevOps knowledge </p>
-                </div>
-                </div>
-            </div>
+						<div className="col-md-4 text-center animate-box">
+							<div className="services color-3">
+								<span className="icon">
+									<i className="icon-phone3" />
+								</span>
+								<div className="desc">
+									<h3>Domains</h3>
+									<ul className="about-ul">
+										<li>HealthCare</li>
+										<li>Insurance</li>
+										<li>manufacture and service</li>
+										<li>logistics and supply chain management</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div className="col-md-4 text-center animate-box">
+							<div className="services color-5">
+								<span className="icon">
+									<i className="icon-data" />
+								</span>
+								<div className="desc">
+									<h3>Cerifications </h3>
+									<ul className="about-ul">
+										<li>Azure Fundamentals -2020</li>
+										<li>Complete React Developer -2020</li>
+										<li>Agile Scrum Master Certification -2017</li>
+										<li>Scrum Fundamentals Certified -2017 </li>
+										<li>health care Certification -2016</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div className="col-md-4 text-center animate-box">
+							<div className="services color-5">
+								<span className="icon">
+									<i className="icon-data" />
+								</span>
+								<div className="desc">
+									<h3>Languages </h3>
+									<ul className="about-ul">
+									<li>English</li>
+									<li>Norsk-A1-A2 Level </li>
+									<li>Native : Hindi, Kannada</li>
+								</ul>
+								</div>
+							</div>
+						</div>
             {/*
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-2">
